@@ -1,2 +1,2 @@
-# completeprojectmintair
-completeprojectmintair
+# MintAir
+Air Quality Monitoring Site
